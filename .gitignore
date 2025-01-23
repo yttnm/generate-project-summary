@@ -1,0 +1,12 @@
+data/
+temp/
+
+.summaryignore
+generate-project-summary_project_summary.md
+
+sample/
+
+__pycache__/
+.venv/
+
+.pytest_cache/
